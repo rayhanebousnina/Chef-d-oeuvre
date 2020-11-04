@@ -1,0 +1,24 @@
+
+.nav-item {
+    color: #000000;
+    text-decoration: none;
+    font-size: 1.2rem;
+    background-color: transparent;
+}
+  
+.nav-item:hover {
+    background-color: #f80707a2;
+    text-decoration: none;
+    border-radius: 0.5rem;
+}
+.bg-noir {
+    background-color: #00000071;
+}
+.number {
+    font-size: 2rem;
+    font-weight: bold;
+}
+.chiffre:hover {
+    background-color: rgba(255, 0, 0, 0.466);    
+    border-radius: 0.3rem;
+}
